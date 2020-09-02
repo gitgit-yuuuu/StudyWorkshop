@@ -45,5 +45,3 @@ def sosu(num):
 
 main()
 print("Yeeee")
-
->>>>>>> 9aeafbcc760243575e4e5d71ec157317e1ea5a69
